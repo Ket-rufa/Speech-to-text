@@ -1,1 +1,1 @@
-# XÂY DỰNG TRANG ĐỌC SÁCH TỰ ĐỘNG ĐIỀN PHỤ ĐỀ (SPEECH TO TEXT + TEXT TO SPEECH + DEEPFAKE)
+# Xây dựng trang đọc sách tự động điền phụ đề (speech to text + text to speech + deepfake)
